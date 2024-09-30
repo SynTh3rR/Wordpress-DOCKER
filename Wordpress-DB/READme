@@ -1,0 +1,44 @@
+** OBJETIVO **
+
+Como usar Wordpress con una base de datos integrada en la app de docker desktop aprender sobre los plugins de wordpress al igual que la RES_API, saber y como usar los archivos JSON 
+
+** FUNCION **
+
+con la rest_api de wordpress transmitir la informacion mediante los archivos JSON, al igual de agregar plugins en ejemplo Woocommerce y con sus rest_api agregar autenticaciones para mas seguridad 
+
+** REQUISITOS **
+
+-Editor de texto 
+-Docker (APP)
+-Compose
+-Wordpress
+-SO Windows 10
+-XAMPP
+-CSS
+-HTML
+
+** COMO USARLO **
+
+para poder usarlo requerimos el docker desktop ya que no contiene un archivo python y no podremos correrlo desde la consola
+
+en la consola ejecutar el archivo docker-compose.yml con el comando 
+
+'docker-compose build' para pre-cargar la imagen del docker desktop ademas se evitan posibles errores
+
+despues de que termine la pre-carga con todos las imagenes y requisitos ejecutaremos el comando
+
+'docker-compose up' que creara y levantara nuestro proyecto de forma automatica para poder visualizar nuestra pagina de wordpress
+
+pedira que ingresemos los datos de nuestra pagina y de la base de datos despues de eso puedes interactuar con tu pagina de wordpress
+
+con 'docker ps' podemos en la consola nuestras imagenes creadas
+
+si quieres ver algun error existente usar 'docker logs' (id_contenedor mostrado por el docker ps)
+
+y para finalizar nuestra imagen usaremos 'docker compose down' que para la ejecucion de la imagen y la elimina asi que tener cuidado al hacerlo
+
+** AUTHOR **
+
+Gabriel Del Canto
+
+

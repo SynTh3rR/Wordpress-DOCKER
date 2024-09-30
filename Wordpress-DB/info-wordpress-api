@@ -1,0 +1,13 @@
+La API REST de WordPress proporciona una interfaz para que las aplicaciones interactúen con su sitio de WordPress enviando y recibiendo datos como objetos JSON (notación de objetos JavaScript). 
+Es la base del editor de bloques de WordPress y también puede permitir que su tema, 
+complemento o aplicación personalizada presente interfaces nuevas y potentes para administrar y publicar el contenido de su sitio.
+
+Al utilizar la API REST de WordPress, 
+puede crear un complemento para brindar una experiencia de administración completamente nueva para WordPress, 
+crear una nueva experiencia de interfaz interactiva o llevar su contenido de WordPress a aplicaciones completamente separadas.
+
+Mi Vision Sobre La REST API
+
+La REST API proporciona una extension sobre wordpress con la capacidad de generar proyectos separados con la REST API como la
+mayoria de las REST API generan authenticacion coomo metodo de seguridad tambien permite la opcion de personalizar muchas cosas
+y poner seguridad de forma compleja o basica.

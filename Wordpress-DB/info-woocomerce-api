@@ -1,0 +1,14 @@
+La API REST de WooCommerce es una herramienta poderosa para conectar tu tienda WooCommerce a sistemas y recursos externos. 
+A menos que seas un desarrollador, en la mayoría de los casos la integración con la que estás 
+trabajando solo requerirá que generes claves API para que las ingreses en su sistema, ¡y estarás conectado al servicio externo!
+
+Este documento cubre los conceptos básicos del
+uso de la API REST desde la perspectiva de un comerciante. 
+Incluye enlaces a la documentación para desarrolladores para temas más avanzados.
+
+Mi Vision Sobre La REST API
+
+En pocas palabras sirve para conectar mi tienda a una empresa o servicio externo con el cual podran usar mi tienda para vender mis productos
+o en casos, cuando una empresa quiere unificarser con un servicio externo y poder conectarse
+
+para eso tendremos que descargar un plugin que permita generar claves APi para la conexion con otro sistema
